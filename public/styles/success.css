@@ -1,0 +1,14 @@
+body {
+    background-color: #363b4e;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #927fbf;
+    color: #363b4e;
+}
+
+.fas {
+    margin-top: 10%;
+    color: #927fbf;
+}
